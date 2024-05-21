@@ -110,7 +110,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 For any questions or inquiries, please contact me at:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email**: amit.sinha@utdallas.edu
+- **LinkedIn**: https://www.linkedin.com/in/amit-sinha-4665953a/
 
 Thank you for visiting my portfolio website!
