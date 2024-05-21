@@ -1,4 +1,4 @@
-# AmitSinha.github.io
+# AmitSinhaAnalyst.github.io
 
 # Portfolio Website
 
